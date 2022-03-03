@@ -1,0 +1,165 @@
+/* Header Section */
+
+.header-section {
+  background-color: #3498db;
+}
+
+.header-section .logo {
+  padding: 2px 0;
+}
+
+.header-section .logo img {
+  width: 200px;
+  height: auto;
+}
+
+.header-section .menu {}
+
+.header-section .menu ul {
+  margin-bottom: 0px;
+}
+
+.header-section .menu ul li {
+  display: inline-block;
+}
+
+.header-section .menu ul li a {
+  display: inline-block;
+  text-decoration: navajowhite;
+  color: white;
+  font-size: 20px;
+  padding: 0 30px;
+  line-height: 69px;
+  border-right: 1px solid #ddd;
+  transition: .4s;
+  margin-left: -4px;
+}
+
+.header-section .menu ul li a:hover {
+  background-color: #2980b9;
+}
+
+/* Banner Section */
+
+.banner-section {
+  background: url(https://s3-ap-southeast-1.amazonaws.com/countrysites-tatamotors-com/countrysite/wp-content/uploads/sites/5/2016/03/01055913/contact-us-banner.jpg) no-repeat center center;
+  background-size: cover;
+  padding: 200px 0;
+}
+
+.banner-section h1 {
+  background-color: #3498db;
+  color: #fff;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+.banner-section h2 {
+  background-color: #3498db;
+  color: #fff;
+  width: 350px;
+  margin: 0 auto;
+  padding: 10px 10px;
+  border-radius: 10px;
+}
+
+/* About Section */
+
+.about-section {
+  background-color: #dddddd;
+}
+
+.about {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.about h1 {}
+
+.about p {
+  font-size: 20px;
+  line-height: 40px;
+}
+
+/* Service Section */
+
+.service-section {}
+
+.service-section h1 {}
+
+.card span {
+  display: inline-block;
+  width: 60px;
+  font-size: 30px;
+  height: 60px;
+  background-color: #3498db;
+  margin: 10px auto;
+  border-radius: 20px 0;
+  color: #fff;
+  line-height: 60px;
+}
+
+.card h2 {}
+
+.card p {
+  font-size: 20px;
+  line-height: 40px;
+}
+
+/* Blog Section */
+
+.blog-section {
+  background-color: #dddddd;
+}
+
+.blog {
+  margin-top: 75px;
+}
+
+.blog-content img {
+  width: 300px;
+  margin-top: 20px;
+}
+
+.blog-content p {
+  text-align: left;
+  margin-left: 30px;
+  font-size: 20px;
+  line-height: 31px;
+}
+
+.blog-content h1 {
+  font-size: 30px;
+  border-bottom: 1px solid #000;
+  padding: 10px 0;
+}
+
+.blog-content ul {
+  list-style-type: none;
+}
+
+.blog-content ul li {
+  font-size: 20px;
+  background: #f7f7f7;
+  border: 1px solid #ddd;
+  padding: 10px 10px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+
+/* Contact Section */
+
+.contact-section {}
+
+/* Footer Section */
+
+.footer-section {}
+
+.footer-section p {}
+
+.footer-section a {
+  text-decoration: none;
+  color: #fff;
+}
