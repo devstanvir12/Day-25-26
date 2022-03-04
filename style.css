@@ -1,3 +1,7 @@
+/* Website */
+html{
+  scroll-behavior: smooth;
+}
 /* Header Section */
 
 .header-section {
